@@ -1,0 +1,2 @@
+To use these templates in a new GitHub Project, copy the contents the ISSUE_TEMPLATE folder and it's contents into a .github folder in the repo that is hosting, or will host the Github Project.
+The master copy of these templates is kept in the https://github.com/PatrickHeaney/km-program-mgmt.git repo
